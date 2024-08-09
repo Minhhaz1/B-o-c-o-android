@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/OS/AndroidStudioProjects/PhongTro360/app/src/main/res/drawable/bg_unselected.xml" value="0.256" />
+        <entry key="..\:/Users/OS/AndroidStudioProjects/PhongTro360/app/src/main/res/drawable/buttom_background.xml" value="0.252" />
+        <entry key="..\:/Users/OS/AndroidStudioProjects/PhongTro360/app/src/main/res/drawable/icon_search.xml" value="0.252" />
+        <entry key="..\:/Users/OS/AndroidStudioProjects/PhongTro360/app/src/main/res/drawable/shappe.xml" value="0.1205" />
+        <entry key="..\:/Users/OS/AndroidStudioProjects/PhongTro360/app/src/main/res/layout/activity_add.xml" value="0.2" />
+        <entry key="..\:/Users/OS/AndroidStudioProjects/PhongTro360/app/src/main/res/layout/activity_detail.xml" value="0.1748610517315092" />
+        <entry key="..\:/Users/OS/AndroidStudioProjects/PhongTro360/app/src/main/res/layout/activity_intro.xml" value="0.136" />
+        <entry key="..\:/Users/OS/AndroidStudioProjects/PhongTro360/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/Users/OS/AndroidStudioProjects/PhongTro360/app/src/main/res/layout/activity_main.xml" value="0.2056434373663959" />
+        <entry key="..\:/Users/OS/AndroidStudioProjects/PhongTro360/app/src/main/res/layout/activity_sign_up.xml" value="0.2056434373663959" />
+        <entry key="..\:/Users/OS/AndroidStudioProjects/PhongTro360/app/src/main/res/layout/fragment_account.xml" value="0.2056434373663959" />
+        <entry key="..\:/Users/OS/AndroidStudioProjects/PhongTro360/app/src/main/res/layout/fragment_accout_login.xml" value="0.152" />
+        <entry key="..\:/Users/OS/AndroidStudioProjects/PhongTro360/app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="..\:/Users/OS/AndroidStudioProjects/PhongTro360/app/src/main/res/layout/fragment_home2.xml" value="0.19410004275331338" />
+        <entry key="..\:/Users/OS/AndroidStudioProjects/PhongTro360/app/src/main/res/layout/fragment_like.xml" value="0.2056434373663959" />
+        <entry key="..\:/Users/OS/AndroidStudioProjects/PhongTro360/app/src/main/res/layout/fragment_like_login.xml" value="0.2056434373663959" />
+        <entry key="..\:/Users/OS/AndroidStudioProjects/PhongTro360/app/src/main/res/layout/fragment_like_logined.xml" value="0.2056434373663959" />
+        <entry key="..\:/Users/OS/AndroidStudioProjects/PhongTro360/app/src/main/res/layout/fragment_search.xml" value="0.19410004275331338" />
+        <entry key="..\:/Users/OS/AndroidStudioProjects/PhongTro360/app/src/main/res/layout/like.xml" value="0.264" />
+        <entry key="..\:/Users/OS/AndroidStudioProjects/PhongTro360/app/src/main/res/layout/phong_cho_thue.xml" value="0.6" />
+        <entry key="..\:/Users/OS/AndroidStudioProjects/PhongTro360/app/src/main/res/menu/navigation.xml" value="0.109375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

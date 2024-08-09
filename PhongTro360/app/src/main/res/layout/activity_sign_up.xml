@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".SignUpActivity">
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="match_parent"
+        android:layout_height="265dp"
+        app:srcCompat="@drawable/icon_search" />
+    <EditText
+        android:id="@+id/edName"
+        android:layout_marginTop="30dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/search_background"
+
+        android:drawablePadding="10dp"
+        android:inputType="textPersonName"
+        android:hint="Tên bạn là gì?"
+        android:padding="10dp"
+        android:text="" />
+    <EditText
+        android:id="@+id/edMail"
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/search_background"
+
+        android:drawablePadding="10dp"
+        android:inputType="textPersonName"
+        android:hint="Email"
+        android:padding="10dp"
+        android:text="" />
+    <EditText
+        android:id="@+id/edSdt"
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/search_background"
+
+        android:drawablePadding="10dp"
+        android:inputType="textPersonName"
+        android:hint="Số điện thoại"
+        android:padding="10dp"
+        android:text="" />
+    <EditText
+        android:id="@+id/edPass"
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/search_background"
+
+        android:drawablePadding="10dp"
+        android:inputType="textPassword"
+        android:hint="Mật khẩu"
+        android:padding="10dp"
+        android:text="" />
+    <EditText
+        android:id="@+id/edRePass"
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/search_background"
+
+        android:drawablePadding="10dp"
+        android:inputType="textPersonName"
+        android:hint="Nhập lại mật khẩu"
+        android:padding="10dp"
+        android:text="" />
+
+    <Button
+        android:id="@+id/btnSignUp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:background="@drawable/buttom_background"
+        android:text="Tạo tài khoản"
+        android:textColor="@color/white" />
+
+    <TextView
+        android:id="@+id/tvBack"
+        android:layout_width="match_parent"
+        android:layout_marginTop="15dp"
+        android:textColor="@color/purple_700"
+        android:textStyle="bold"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="Quay lại" />
+
+</LinearLayout>

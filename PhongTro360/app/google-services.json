@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1002712907108",
+    "project_id": "tro360-107a7",
+    "storage_bucket": "tro360-107a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002712907108:android:0cd8e3faf9cd11907b8e71",
+        "android_client_info": {
+          "package_name": "com.example.phongtro360"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdoCyubAvdEpbP63y9vYsgZKfbiUuLllE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
